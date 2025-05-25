@@ -4,7 +4,11 @@
   <img src="https://profile-counter.glitch.me/AhmdMaulidan/count.svg?"  />
 </div>
 
-## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=AhmdMaulidan&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ![](https://github-profile-trophy.vercel.app/?username=AhmdMaulidan&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
 
@@ -14,12 +18,14 @@
 
 ###
 
+### ⚡️ Statistic
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=AhmdMaulidan&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmdMaulidan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
+### 🎨 Language
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
@@ -34,6 +40,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
   <img width="12" />
+</div>
+
+### 🛠️ Framework
+
+<div align="center">
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="30" alt="codeigniter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
@@ -44,8 +56,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
 </div>
-
-###
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
