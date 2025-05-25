@@ -10,12 +10,6 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![](https://github-profile-trophy.vercel.app/?username=AhmdMaulidan&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-###
-
 ###
 
 ### ⚡️ Statistic
@@ -56,8 +50,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
 </div>
-
-###
 
 ###
 
