@@ -4,6 +4,12 @@
   <img src="https://profile-counter.glitch.me/AhmdMaulidan/count.svg?"  />
 </div>
 
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=AhmdMaulidan&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 ###
 
 ###
