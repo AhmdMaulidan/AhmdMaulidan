@@ -1,5 +1,11 @@
 <h2 align="left">Hi 👋! My name is Ahmad Maulidan<br> and I'm a Front-End Developer || UI/UX Designer.</h2>
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/AhmdMaulidan/count.svg?"  />
+</div>
+
+###
+
 ###
 
 <div align="center">
